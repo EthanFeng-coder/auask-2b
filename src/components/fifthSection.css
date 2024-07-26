@@ -1,5 +1,5 @@
 .fifth-section {
-    color: #ffffff; /* White text color */
+    color: --font-color; /* White text color */
     padding: 60px 20px; /* Padding around the section */
     text-align: center; /* Center-align text */
   }
@@ -7,13 +7,13 @@
   .fifth-section h2 {
     font-size: 2.5em; /* Large font size for the heading */
     margin-bottom: 20px; /* Space below the heading */
-    color: #ffffff; /* White color for heading */
+    color: --font-color; /* White color for heading */
   }
   
   .fifth-section p {
     font-size: 1.2em; /* Slightly larger font size for paragraph */
     margin-bottom: 20px; /* Space below the paragraph */
-    color: #c0c0c0; /* Light gray color for text */
+    color: --font-color; /* Light gray color for text */
   }
   
   .fifth-section ul {
@@ -24,7 +24,7 @@
   .fifth-section ul li {
     font-size: 1em; /* Standard font size for list items */
     margin-bottom: 10px; /* Space below each list item */
-    color: #c0c0c0; /* Light gray color for list items */
+    color: --font-color; /* Light gray color for list items */
   }
   
   .pricing-container {

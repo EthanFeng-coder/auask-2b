@@ -47,7 +47,7 @@ print(message)
     </div>
   </div>
         <p>
-        Keep Simple can accelerate your Generative AI app development by providing an API-first platform that offers intelligent text extraction, vector-based search, and RAG conversations, along with audio and video transcription support. It also automatically builds a knowledge graph from ingested content, and offers entity extraction and enrichment. Additionally, Graphlit offers a free tier with full access to its API features, and usage-based pricing for higher quota limits and additional features.
+        Keep Simple can accelerate your Generative AI app development by providing an API-first platform that offers intelligent text extraction, vector-based search, and RAG conversations, along with audio and video transcription support. It also automatically builds a knowledge keepSimple from ingested content, and offers entity extraction and enrichment. Additionally, keepSimple offers a free tier with full access to its API features, and usage-based pricing for higher quota limits and additional features.
         </p>
       </div>
       </div>

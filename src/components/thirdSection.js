@@ -33,7 +33,7 @@ const ThirdSection = () => {
           <p>Data Enrichment</p>
         </div>
         <div className="graphql-api">
-          <p>GraphQL API</p>
+          <p>KeepSimple API</p>
         </div>
         <div className="applications">
           <p>Knowledge Retrieval Apps</p>

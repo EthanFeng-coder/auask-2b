@@ -4,7 +4,7 @@ import './fifthSection.css';
 const FifthSection = () => {
   return (
     <section className="fifth-section">
-      <h2>How much does Graphlit cost?</h2>
+      <h2>How much does keepSimple cost?</h2>
       <p>Free to get started, no credit card required.</p>
       <p>With our paid tiers, your costs are based on how much content you ingest - plus the usage costs of features such as audio transcription, AI model usage or PDF OCR text extraction.</p>
       <p>Usage-based pricing starts at $0.10/credit</p>

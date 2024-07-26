@@ -3,9 +3,9 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #111111; /* Change to your desired background color */
     max-width: 80%;
     margin: 0 auto;
+   
   }
 
   
@@ -22,7 +22,7 @@
   
   .brand-name {
     font-size: 24px;
-    color: #ffffff;
+    color: --font-color;
     font-weight: bold;
   }
   

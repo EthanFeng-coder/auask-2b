@@ -4,8 +4,8 @@ import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
 import { vscDarkPlus } from 'react-syntax-highlighter/dist/esm/styles/prism';
 
 const FourthSection = () => {
-  const codeString =`from graphlit import Graphlit
-from graphlit_api import *
+  const codeString =`from KeepSimple import KeepSimple
+from KeepSimple_api import *
 
 input = FeedInput(
   name="f{account-name}: {container-name}",
@@ -25,13 +25,13 @@ input = FeedInput(
   )
 )
 
-response = await graphlit.client.create_feed(input)`
+response = await.client.create_feed(input)`
   return (
     <section className="fourth-section">
       <div className="button-container">
         <button className="action-button">Have Questions?</button>
         <button className="action-button">See Pricing</button>
-        <button className="action-button">Read Graphlit Blog</button>
+        <button className="action-button">Read KeepSimple Blog</button>
       </div>
       <div className="content-container">
         <div className="text-content">
