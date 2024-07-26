@@ -1,0 +1,48 @@
+.sixth-section {
+ /*     background-color: #0c0e1a; */
+    color: #ffffff; /* White text color */
+    padding: 60px 20px; /* Padding around the section */
+    text-align: center; /* Center-align text */
+    border-radius: 10px; /* Rounded corners */
+  }
+  
+  .newsletter-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .newsletter-title {
+    font-size: 2.5em; /* Large font size for the heading */
+    margin-bottom: 20px; /* Space below the heading */
+    color: #ffffff; /* White color for heading */
+  }
+  
+  .newsletter-form {
+    display: flex;
+    justify-content: center; /* Center the form elements */
+    align-items: center;
+    gap: 10px; /* Space between the input and button */
+  }
+  
+  .email-input {
+    flex: 1;
+    padding: 10px 20px; /* Padding inside the input */
+    border-radius: 5px; /* Rounded corners */
+    border: none; /* Remove default border */
+    font-size: 1em; /* Standard font size */
+  }
+  
+  .subscribe-button {
+    background-color: #5a6eff; /* Button background color */
+    color: #ffffff; /* White text color */
+    padding: 10px 20px; /* Padding inside the button */
+    border: none; /* Remove default border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 1em; /* Standard font size for button text */
+  }
+  
+  .subscribe-button:hover {
+    background-color: #485ac3; /* Darker background on hover */
+  }
+  

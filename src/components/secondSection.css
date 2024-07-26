@@ -1,0 +1,36 @@
+.second-section {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .section-title {
+    font-size: 24px;
+    color: #ffffff;
+  }
+  
+  .section-title .highlight {
+    color: #00ffb3; /* Adjust the highlight color */
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
+  .feature-button {
+    background-color: #5b6efc; /* Adjust button background color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .feature-button:hover {
+    background-color: #4456d1; /* Adjust hover background color */
+  }
+  

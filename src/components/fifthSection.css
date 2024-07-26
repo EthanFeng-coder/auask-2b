@@ -1,0 +1,84 @@
+.fifth-section {
+    color: #ffffff; /* White text color */
+    padding: 60px 20px; /* Padding around the section */
+    text-align: center; /* Center-align text */
+  }
+  
+  .fifth-section h2 {
+    font-size: 2.5em; /* Large font size for the heading */
+    margin-bottom: 20px; /* Space below the heading */
+    color: #ffffff; /* White color for heading */
+  }
+  
+  .fifth-section p {
+    font-size: 1.2em; /* Slightly larger font size for paragraph */
+    margin-bottom: 20px; /* Space below the paragraph */
+    color: #c0c0c0; /* Light gray color for text */
+  }
+  
+  .fifth-section ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .fifth-section ul li {
+    font-size: 1em; /* Standard font size for list items */
+    margin-bottom: 10px; /* Space below each list item */
+    color: #c0c0c0; /* Light gray color for list items */
+  }
+  
+  .pricing-container {
+    display: flex; /* Use flexbox for layout */
+    justify-content: center; /* Center the pricing cards */
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    gap: 20px; /* Space between the cards */
+    margin-top: 40px; /* Space above the container */
+  }
+  
+  .pricing-card {
+    background-color: #1a1c2b; /* Slightly lighter dark background for cards */
+    padding: 20px; /* Padding inside the card */
+    border-radius: 10px; /* Rounded corners */
+    width: 250px; /* Fixed width for each card */
+    text-align: left; /* Left-align text inside cards */
+    color: #ffffff; /* White text color for cards */
+  }
+  
+  .pricing-card h3 {
+    font-size: 1.5em; /* Larger font size for card heading */
+    margin-bottom: 10px; /* Space below the card heading */
+    color: #ffffff; /* White color for card heading */
+  }
+  
+  .pricing-card p {
+    font-size: 1.2em; /* Slightly larger font size for card text */
+    margin-bottom: 20px; /* Space below the card text */
+    color: #c0c0c0; /* Light gray color for card text */
+  }
+  
+  .pricing-card ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+    color: #c0c0c0; /* Light gray color for list items */
+  }
+  
+  .pricing-card ul li {
+    margin-bottom: 10px; /* Space below each list item */
+    color: #c0c0c0; /* Light gray color for list items */
+  }
+  
+  .signup-button {
+    background-color: #5a6eff; /* Button background color */
+    color: #ffffff; /* White text color */
+    padding: 10px 20px; /* Padding inside the button */
+    border: none; /* Remove default border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 1em; /* Standard font size for button text */
+    margin-top: 20px; /* Space above the button */
+  }
+  
+  .signup-button:hover {
+    background-color: #485ac3; /* Darker background on hover */
+  }
+  

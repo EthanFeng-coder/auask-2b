@@ -1,0 +1,51 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #111111; /* Change to your desired background color */
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 30px; /* Adjust size as needed */
+    height: 30px; /* Adjust size as needed */
+    margin-right: 10px;
+  }
+  
+  .brand-name {
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: bold;
+  }
+  
+  .button-container {
+    display: flex;
+  }
+  
+  .api-doc-button, .try-free-button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .api-doc-button {
+    background-color: #333333; /* Change to your desired color */
+    color: #ffffff;
+  }
+  
+  .try-free-button {
+    background-color: #3c6ef3; /* Change to your desired color */
+    color: #ffffff;
+  }
+  
